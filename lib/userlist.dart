@@ -16,9 +16,9 @@ class _UserListState extends State<UserList> {
   TextEditingController Email = TextEditingController();
 
   List<UserData> daftarUser = [
-    UserData("Idris", 34, "idrez.mochamad@gmail.com"),
-    UserData("Adi", 24, "adi@gmail.com"),
-    UserData("Rizal", 33, "rizal.mochamad@gmail.com"),
+    UserData("Andini", 21, "andiniyuli833@gmail.com"),
+    UserData("Risma", 21, "rismarisma07@gmail.com"),
+    UserData("Dinda", 21, "dindatunjung027@gmail.com"),
   ];
 
   @override
