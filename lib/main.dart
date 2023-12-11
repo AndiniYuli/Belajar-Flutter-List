@@ -4,6 +4,6 @@ import 'package:flutterlist/useritem.dart';
 import 'package:flutterlist/userlist.dart';
 
 void main() {
-  // UserData userIdris = UserData("Idris", 34, "idrez.mochamad@gmail.com");
+  // UserData userAndini = UserData("Andini", 21, "andiniyuli15@gmail.com");
   runApp(UserList());
 }
