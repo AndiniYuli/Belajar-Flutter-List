@@ -5,3 +5,4 @@ class UserData {
 
   UserData(this.nama, this.umur, this.email);
 }
+ 
